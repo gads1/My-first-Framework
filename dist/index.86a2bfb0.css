@@ -1,0 +1,28 @@
+body, html {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  font-family: Ubuntu, sans-serif;
+  height: 100%
+}
+
+*, :after, :before {
+  box-sizing: border-box
+}
+
+.m-css-button {
+  align-items: center;
+  border-radius: 5px;
+  display: inline-flex;
+  justify-content: center;
+  padding: 5px 9px 8px
+}
+
+.m-css-button_simple {
+  background-color: #c7c7c7;
+  color: #000333
+}
+
+/*# sourceMappingURL=index.86a2bfb0.css.map */
